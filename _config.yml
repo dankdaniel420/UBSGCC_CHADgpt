@@ -20,7 +20,7 @@
 
 title: CHADgpt
 description: My coding experience with CHADgpt in UBS Global Coding Challenge 2024.
-# baseurl: 
+baseurl: "/UBSGCC_CHADgpt"
 url: "https://dankdaniel420.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  dankdaniel420
 
