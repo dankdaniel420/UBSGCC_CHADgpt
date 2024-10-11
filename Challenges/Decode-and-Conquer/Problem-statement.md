@@ -6,16 +6,13 @@ permalink: /Challenges/Decode-and-Conquer/Problem-statement
 <!DOCTYPE html>
 <!-- saved from url=(0056)https://decode-and-conquer-5-c0903fb21f66.herokuapp.com/ -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- RENAME BELOW -->
     <meta name="description" content="Kotlin Template">
     <title>Decode and Conquer!</title>
-
     <script src="./Decode and Conquer!_files/webcomponents-loader.min.js.download"></script>
     <script type="module" src="./Decode and Conquer!_files/zero-md.min.js.download"></script>
-
     <style>
             header {
                 font-family: sans-serif;
@@ -29,7 +26,6 @@ permalink: /Challenges/Decode-and-Conquer/Problem-statement
                 background-color: #424242;
                 color: white;
             }
-
             body {
                 box-sizing: border-box;
                 min-width: 200px;
@@ -37,12 +33,10 @@ permalink: /Challenges/Decode-and-Conquer/Problem-statement
                 padding: 45px;
                 text-align: justify;
             }
-
             @media (max-width: 767px) {
                 header {
                     font-size: 15px;
                 }
-
                 body {
                     padding: 15px;
                 }

@@ -6,15 +6,12 @@ permalink: /Challenges/Dodge-Bullet/Problem-statement
 <!DOCTYPE html>
 <!-- saved from url=(0058)https://dodge-bullet-b9551e9e48e3.herokuapp.com/index.html -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Dodge Bullet!">
     <title>Dodge Bullet!</title>
-
     <script src="./Dodge Bullet!_files/webcomponents-loader.min.js.download"></script>
     <script type="module" src="./Dodge Bullet!_files/zero-md.min.js.download"></script>
-
     <style>
             header {
                 font-family: sans-serif;
@@ -28,7 +25,6 @@ permalink: /Challenges/Dodge-Bullet/Problem-statement
                 background-color: #424242;
                 color: white;
             }
-
             body {
                 box-sizing: border-box;
                 min-width: 200px;
@@ -36,12 +32,10 @@ permalink: /Challenges/Dodge-Bullet/Problem-statement
                 padding: 45px;
                 text-align: justify;
             }
-
             @media (max-width: 767px) {
                 header {
                     font-size: 15px;
                 }
-
                 body {
                     padding: 15px;
                 }
