@@ -3,7 +3,7 @@ layout: none
 permalink: /Challenges/Dodge-Bullet/Problem-statement
 ---
 <!-- markdownlint-disable -->
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <!-- saved from url=(0058)https://dodge-bullet-b9551e9e48e3.herokuapp.com/index.html -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">

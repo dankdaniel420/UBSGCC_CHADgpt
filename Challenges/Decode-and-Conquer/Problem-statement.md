@@ -3,7 +3,7 @@ layout: none
 permalink: /Challenges/Decode-and-Conquer/Problem-statement
 ---
 <!-- markdownlint-disable -->
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <!-- saved from url=(0056)https://decode-and-conquer-5-c0903fb21f66.herokuapp.com/ -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">

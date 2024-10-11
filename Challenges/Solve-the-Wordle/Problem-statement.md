@@ -3,7 +3,7 @@ layout: none
 permalink: /Challenges/Solve-the-Wordle/Problem-statement
 ---
 <!-- markdownlint-disable -->
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <!-- saved from url=(0053)https://solve-wordle-game-eed510c88ff8.herokuapp.com/ -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">

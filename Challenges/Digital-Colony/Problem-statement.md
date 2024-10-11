@@ -3,7 +3,7 @@ layout: none
 permalink: /Challenges/Digital-Colony/Problem-statement
 ---
 <!-- markdownlint-disable -->
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <!-- saved from url=(0050)https://digital-colony-5655e3dc2c2f.herokuapp.com/ -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">

@@ -3,7 +3,7 @@ layout: none
 permalink: /Challenges/The-Clumsy-Programmer/Problem-statement
 ---
 <!-- markdownlint-disable -->
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <!-- saved from url=(0057)https://the-clumsy-programmer-18d70a829b02.herokuapp.com/ -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
