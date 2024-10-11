@@ -1,3 +1,10 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: default
+title: Index
+---
 # Introduction
 
 This repository provides documentation to the various challenges I encountered during the UBS GCC 2024 The goal is to demonstrate my problem-solving approach and share my thought process as I tackled each challenge.
@@ -8,15 +15,15 @@ Shoutout to my teammates [Teck Ren](https://sg.linkedin.com/in/chua-teck-ren-409
 
 - [Decode and Conquer!](./Challenges/Decode-and-Conquer/)
 - [Digital Colony](./Challenges/Digital-Colony/)✅
-- [Dodge Bullet!](./Challenges/Dodge-Bullet!/)✅
-- [Solve the Wordle!](./Challenges/Solve-the-Wordle!/)✅
+- [Dodge Bullet!](./Challenges/Dodge-Bullet/)✅
+- [Solve the Wordle!](./Challenges/Solve-the-Wordle/)✅
 - [The Clumsy Programmer](./Challenges/The-Clumsy-Programmer/)
 
 Each challenge directory contains:
 
-- **Problem Statement.html**: Webpage of challenge description.
-- **Solution Code.py**: My implementation of the solution.
-- **Explanation.md**: Step-by-step breakdown of my thought process, challenges faced, and improvements made.
+- **Problem Statement**: Webpage of challenge description.
+- **Explanation**: Step-by-step breakdown of my thought process, challenges faced, and improvements made.
+- **Solution Code**: My implementation of the solution.
 
 ## About the Challenge
 
