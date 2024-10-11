@@ -8,15 +8,15 @@ Shoutout to my teammates [Teck Ren](https://sg.linkedin.com/in/chua-teck-ren-409
 
 - [Decode and Conquer!](./Challenges/Decode-and-Conquer/)
 - [Digital Colony](./Challenges/Digital-Colony/)✅
-- [Dodge Bullet!](./Challenges/Dodge-Bullet!/)✅
-- [Solve the Wordle!](./Challenges/Solve-the-Wordle!/)✅
+- [Dodge Bullet!](./Challenges/Dodge-Bullet/)✅
+- [Solve the Wordle!](./Challenges/Solve-the-Wordle/)✅
 - [The Clumsy Programmer](./Challenges/The-Clumsy-Programmer/)
 
 Each challenge directory contains:
 
-- **Problem Statement.html**: Webpage of challenge description.
-- **Solution Code.py**: My implementation of the solution.
-- **Explanation.md**: Step-by-step breakdown of my thought process, challenges faced, and improvements made.
+- **Problem Statement**: Webpage of challenge description.
+- **Explanation**: Step-by-step breakdown of my thought process, challenges faced, and improvements made.
+- **Solution Code**: My implementation of the solution.
 
 ## About the Challenge
 
