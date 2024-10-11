@@ -7,7 +7,7 @@ permalink: /Challenges/Digital-Colony/
 
 # Digital Colony
 
-[Problem statement](/Challenges/Digital-Colony/Problem-statement)
+[Problem statement](./Problem-statement)
 
 ## Initial Thoughts
 
