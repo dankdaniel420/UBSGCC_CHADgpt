@@ -7,7 +7,7 @@ permalink: /Challenges/Dodge-Bullet/
 
 # Dodge Bullet
 
-[Problem statement](/Challenges/Dodge-Bullet/Problem-statement.html)
+[Problem statement](/Challenges/Dodge-Bullet/Problem-statement)
 
 ## Initial Thoughts
 

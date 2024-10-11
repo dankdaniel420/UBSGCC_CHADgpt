@@ -7,7 +7,7 @@ permalink: /Challenges/The-Clumsy-Programmer/
 
 # The Clumsy Programmer
 
-[Problem statement](/Challenges/The-Clumsy-Programmer/Problem-statement.html)
+[Problem statement](/Challenges/The-Clumsy-Programmer/Problem-statement)
 
 ## Initial Thoughts
 

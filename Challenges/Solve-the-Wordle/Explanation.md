@@ -7,7 +7,7 @@ permalink: /Challenges/Solve-the-Wordle/
 
 # Solve the Wordle
 
-[Problem statement](/Challenges/Solve-the-Wordle/Problem-statement.html)
+[Problem statement](/Challenges/Solve-the-Wordle/Problem-statement)
 
 ## Initial Thoughts
 

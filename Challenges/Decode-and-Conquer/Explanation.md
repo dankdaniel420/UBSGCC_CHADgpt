@@ -7,7 +7,7 @@ permalink: /Challenges/Decode-and-Conquer/
 
 # Decode and Conquer
 
-[Problem statement](/Challenges/Decode-and-Conquer/Problem-statement.html)
+[Problem statement](/Challenges/Decode-and-Conquer/Problem-statement)
 
 ## Initial Thoughts
 
